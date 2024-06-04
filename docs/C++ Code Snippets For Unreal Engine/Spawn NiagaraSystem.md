@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [C++ Code Snippets For Unreal Engine](README.md) / Spawn NiagaraSystem.md
+## Spawn NiagaraSystem
 ```
 // .h
 UPROPERTY(BlueprintReadWrite, EditDefaultsOnly, Category="Default")

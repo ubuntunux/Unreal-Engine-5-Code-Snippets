@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [Python Code Snippets For Unreal Engine](README.md) / Make a Blueprint class with components from Python.md
+## Make a Blueprint class with components from Python
 [Make a Blueprint class with components from Python](https://dev.epicgames.com/community/snippets/8zx/unreal-engine-make-a-blueprint-class-with-components-from-python)
 
 * [unreal.BlueprintFactory](https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/BlueprintFactory.html)

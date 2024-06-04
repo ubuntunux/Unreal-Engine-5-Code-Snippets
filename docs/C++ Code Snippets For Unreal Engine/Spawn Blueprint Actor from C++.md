@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [C++ Code Snippets For Unreal Engine](README.md) / Spawn Blueprint Actor from C++.md
+## Spawn Blueprint Actor from C++
 Solution 1: cpp example
 ```
 // .cpp

@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [C++ Code Snippets For Unreal Engine](README.md) / Override C++ Function in Blueprint.md
+## Override C++ Function in Blueprint
 // .h
 // Class Specifiers: BlueprintType, Blueprintable
 UCLASS(BlueprintType, Blueprintable) 

@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../../README.md) / [Python Code Snippets For Unreal Engine](../README.md) / [Creating blueprint assets](README.md) / hierarchies with Python.md
+## hierarchies with Python
 URL: [Creating blueprint assets/hierarchies with Python](https://forums.unrealengine.com/t/creating-blueprint-assets-hierarchies-with-python/115929)
 
 ```

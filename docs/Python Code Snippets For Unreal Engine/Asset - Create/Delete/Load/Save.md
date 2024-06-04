@@ -1,3 +1,4 @@
+> [Unreal Engine 5 Code Snippets](../../../../README.md) / [Python Code Snippets For Unreal Engine](../../../README.md) / [Asset - Create](../../README.md) / [Delete](../README.md) / [Load](README.md) / Save.md
 #### Create/Delete Asset
 * [unreal.AssetTools](https://docs.unrealengine.com/5.3/en-US/PythonAPI/class/AssetTools.html#unreal.AssetTools)
 * [unreal.EditorAssetLibrary](https://docs.unrealengine.com/5.3/en-US/PythonAPI/class/EditorAssetLibrary.html#unreal.EditorAssetLibrary)

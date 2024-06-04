@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [Python Code Snippets For Unreal Engine](README.md) / Actor 다루기 (Component, Asset).md
+## Actor 다루기 (Component, Asset)
 ```
 import unreal
  

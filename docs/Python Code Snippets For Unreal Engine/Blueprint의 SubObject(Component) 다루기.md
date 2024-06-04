@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [Python Code Snippets For Unreal Engine](README.md) / Blueprint의 SubObject(Component) 다루기.md
+## Blueprint의 SubObject(Component) 다루기
 * [unreal.EditorUtilityLibrary](https://docs.unrealengine.com/5.3/en-US/PythonAPI/class/EditorUtilityLibrary.html#unreal.EditorUtilityLibrary)
 * [unreal.SubobjectDataSubsystem](https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/SubobjectDataSubsystem.html)
 * [unreal.SubobjectDataBlueprintFunctionLibrary](https://docs.unrealengine.com/5.0/en-US/PythonAPI/class/SubobjectDataBlueprintFunctionLibrary.html)

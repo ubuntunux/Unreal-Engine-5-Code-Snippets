@@ -1,3 +1,5 @@
+> [Unreal Engine 5 Code Snippets](../README.md) / [Python Code Snippets For Unreal Engine](README.md) / Progress Bar.md
+## Progress Bar
 * [unreal.ScopedSlowTask](https://docs.unrealengine.com/5.3/en-US/PythonAPI/class/ScopedSlowTask.html)
 
 
