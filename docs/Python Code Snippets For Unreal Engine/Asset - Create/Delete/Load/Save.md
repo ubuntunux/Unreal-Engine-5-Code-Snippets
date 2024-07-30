@@ -30,6 +30,9 @@ import unreal
 # load asset: BP_House Asset 불러오기
 package_name = '/Game/Blueprint/BP_House.BP_House'
 uasset = unreal.EditorAssetLibrary.load_asset(package_name)
+
+# modify dirty mark for edit
+uasset.modify()
  
 # save asset
 unreal.EditorAssetLibrary.save_loaded_asset(uasset)
