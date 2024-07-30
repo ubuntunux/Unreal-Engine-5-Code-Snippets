@@ -31,7 +31,7 @@ import unreal
 package_name = '/Game/Blueprint/BP_House.BP_House'
 uasset = unreal.EditorAssetLibrary.load_asset(package_name)
 
-# modify dirty mark for edit
+# modify dirty mark for edit (option)
 uasset.modify()
  
 # save asset
